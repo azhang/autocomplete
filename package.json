@@ -8,7 +8,9 @@
     "component-classes": "*",
     "debounce": "*",
     "discore-closest": "*",
-    "component-matches-selector": "*"
+    "component-matches-selector": "*",
+    "domify": "*",
+    "component-emitter": "*"
   },
   "main": "lib/index.js",
   "license": "MIT"
