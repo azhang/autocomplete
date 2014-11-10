@@ -6,7 +6,7 @@
     "component-query": "*",
     "keyname": "*",
     "component-classes": "*",
-    "component-debounce": "*",
+    "debounce": "*",
     "discore-closest": "*",
     "component-matches-selector": "*"
   },
