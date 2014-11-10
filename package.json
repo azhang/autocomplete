@@ -1,0 +1,15 @@
+{
+  "name": "autocomplete",
+  "version": "0.1.5",
+  "description": "autocomplete",
+  "dependencies": {
+    "component-query": "*",
+    "keyname": "*",
+    "component-classes": "*",
+    "component-debounce": "*",
+    "discore-closest": "*",
+    "component-matches-selector": "*"
+  },
+  "main": "lib/index.js",
+  "license": "MIT"
+}
